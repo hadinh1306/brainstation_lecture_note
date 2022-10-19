@@ -1,2 +1,6 @@
 # brainstation_lecture_note
-This is where I store my note
+You can run your code by running this line:
+
+```
+python helloworld.py
+```
